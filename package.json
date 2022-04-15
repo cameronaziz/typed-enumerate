@@ -1,9 +1,13 @@
 {
   "name": "typed-enumerate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper functions to return type safe responses from Object enumerating functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cameronaziz/typed-enumerate.git"
+  },
   "scripts": {
     "build": "tsc"
   },
