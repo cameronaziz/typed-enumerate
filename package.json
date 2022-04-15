@@ -1,6 +1,6 @@
 {
   "name": "typed-enumerate",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "Wrapper functions to return type safe responses from Object enumerating functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
