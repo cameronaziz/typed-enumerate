@@ -1,6 +1,6 @@
 {
   "name": "typed-enumerate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper functions to return type safe responses from Object enumerating functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,11 @@
     "email": "cameronaziz@me.com"
   },
   "license": "MIT",
+  "keywords": [
+    "enumerate",
+    "utility",
+    "type-safe"
+  ],
   "devDependencies": {
     "typescript": "^4.6.3"
   }
